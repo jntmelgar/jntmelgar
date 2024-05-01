@@ -3,7 +3,7 @@
 ## Sobre Mim
 - 🎓 Estudante de Ciência da Computação.
 - 💻 Interessado no mundo de DevOps.
-- 🚀 Atualmente em transição de carreira para Desenvolvedor Web Front-End.
+- 🚀 Atualmente em transição de carreira para Desenvolvedor Web.
 
 ## Experiência Profissional
 - 💼 Freelancer de Desenvolvimento Web.
