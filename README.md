@@ -1,20 +1,33 @@
-# Bem-vindo ao meu perfil do GitHub!
+### Olá, eu sou o Jonathan Melgar 👋
 
-## Sobre Mim
-- 🎓 Estudante de Ciência da Computação.
-- 💻 Interessado no mundo de DevOps.
-- 🚀 Atualmente em transição de carreira para Desenvolvedor Web.
+💻 Sou desenvolvedor com interesse em Linux, DevOps, backend e automações.  
+🎓 Estudante de Ciência da Computação.  
+🚀 Explorando tecnologias como Golang, Docker, Linux e mais.  
 
-## Experiência Profissional
-- 💼 Freelancer de Desenvolvimento Web.
-- 🌐 Prestação de serviços em WordPress e configuração de plataformas de marketing.
-- 📈 Especializado em Business Meta, Google Ads, Analytics, Merchant e Tag Manager.
-- 🔍 Expertise em otimização de sites e SEO.
+---
 
-## Objetivos
-- 🔎 Em busca de novos desafios e oportunidades na área de Desenvolvimento Web.
-- 📚 Continuar aprendendo e crescendo profissionalmente.
+#### 🛠 Tecnologias e Linguagens que mais uso:
 
-## Como Entrar em Contato
-- 📧 Email: [melgarwolf@gmail.com](mailto:melgarwolf@gmail.com)
-- 💼 LinkedIn: [Meu Perfil](https://www.linkedin.com/in/jonathanmmelgar/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell" width="40" height="40" style="margin-right:8px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-right:8px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40" height="40" style="margin-right:8px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin-right:8px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40" style="margin-right:8px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right:8px;"/>
+
+---
+
+#### 📊 Minhas estatísticas no GitHub
+
+| ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jntmelgar&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jntmelgar&layout=compact&theme=tokyonight) |
+|---|---|
+
+---
+
+#### 📫 Contato
+
+- LinkedIn: [linkedin.com/in/jntmelgar](https://www.linkedin.com/in/jntmelgar/)
+
+---
+
+> “O conhecimento é a única riqueza que quanto mais se divide, mais se multiplica.” 💡
