@@ -21,7 +21,7 @@
 
 #### 📫 Contato
 
-- LinkedIn: [linkedin.com/in/jntmelgar](https://www.linkedin.com/in/jntmelgar/)
+- LinkedIn: [https://www.linkedin.com/in/jonathanmmelgar/](https://www.linkedin.com/in/jonathanmmelgar/)
 
 ---
 
